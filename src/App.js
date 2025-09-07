@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to Kubernets version 3
+          Welcome to Kubernets version 3 through JEKINS
         </p>
         <a
           className="App-link"
